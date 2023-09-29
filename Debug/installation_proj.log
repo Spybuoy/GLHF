@@ -1,0 +1,4 @@
+﻿  Application.cpp
+C:\Files\OpenGL\code\installation_proj\src\Renderer.h(4,1): warning C4005: '_ASSERT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\crtdbg.h(743,1): message : see previous definition of '_ASSERT'
+  installation_proj.vcxproj -> C:\Files\OpenGL\code\installation_proj\Debug\installation_proj.exe
